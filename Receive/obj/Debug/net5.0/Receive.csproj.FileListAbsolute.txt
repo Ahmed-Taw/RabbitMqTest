@@ -1,0 +1,17 @@
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\Receive.exe
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\Receive.deps.json
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\Receive.runtimeconfig.json
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\Receive.runtimeconfig.dev.json
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\Receive.dll
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\ref\Receive.dll
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\Receive.pdb
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.AssemblyInfoInputs.cache
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.AssemblyInfo.cs
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.csproj.CoreCompileInputs.cache
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.csproj.CopyComplete
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.dll
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\ref\Receive.dll
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.pdb
+D:\Tawfik\Training Projects\RabbitMqTest\Receive\obj\Debug\net5.0\Receive.genruntimeconfig.cache
